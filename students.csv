@@ -1,0 +1,16 @@
+StudentID,Name,Age,Gender,Department,Marks,Attendance,City
+101,Aarav,21,Male,Computer,85,92,Mumbai
+102,Diya,22,Female,Computer,78,88,Pune
+103,Vivaan,20,Male,Mechanical,67,80,Nashik
+104,Ananya,21,Female,Computer,91,95,Mumbai
+105,Aditya,23,Male,Civil,72,85,Thane
+106,Saanvi,22,Female,Mechanical,88,91,Pune
+107,Krish,20,Male,Computer,95,98,Mumbai
+108,Myra,21,Female,Civil,81,87,Nagpur
+109,Rohan,22,Male,Computer,76,84,Pune
+110,Ishita,20,Female,Mechanical,89,93,Mumbai
+111,Arjun,23,Male,Civil,65,75,Thane
+112,Kiara,21,Female,Computer,92,96,Mumbai
+113,Kabir,22,Male,Mechanical,74,82,Nashik
+114,Aadhya,20,Female,Civil,87,90,Pune
+115,Reyansh,21,Male,Computer,83,89,Mumbai
